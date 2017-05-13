@@ -1,3 +1,7 @@
+"""
+Preprocess the original data to "Scale". The mean of the code returns from its original value to zero.
+ie. The data is shifted so as to work around a predetermined value, zero.
+"""
 import pandas
 from sklearn import preprocessing
 
