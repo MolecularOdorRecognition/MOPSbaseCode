@@ -1,3 +1,6 @@
+"""
+To observe the difference between PCA and iPCA datasets, this code is created to create the iPCA dataset.
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.decomposition import IncrementalPCA
