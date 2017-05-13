@@ -1,8 +1,11 @@
+"""
+To create the dataset preprocessed by the PCA method.
+"""
 import pandas
 from sklearn.decomposition import PCA
 
 #import data
-X = pandas.read_csv("X_normalized_max.csv", header=None, low_memory=False, skiprows=1)
+X = pandas.read_csv("X.csv", header=None, low_memory=False, skiprows=1)
 
 #convert data to Matrix form
 X = X.as_matrix()
