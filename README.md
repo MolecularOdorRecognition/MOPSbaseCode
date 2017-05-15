@@ -1,7 +1,7 @@
 # MOPSbaseCode
 
 This Readme is created for Student, Professors, Researchers and other interested parties for the project entitled “Molecular Odour Predictor Software”.
-The original data here is placed, very conveniently in the folder names “original Data”. The text files “molecular_descriptors_data.txt” and “TrainSet.txt” contain the input data and output data respectively. The “TrainSet.txt” file contains 26 labels, with the “INTENSITY” one being chosen for analysis as of right now [12-05-17].
+The original data here is placed, very conveniently in the folder names “original Data”. The text files “molecular_descriptors_data.txt” and “TrainSet.txt” contain the input data and output data respectively. The “TrainSet.txt” file contains 21 labels, with the “INTENSITY” one being chosen for analysis as of right now [12-05-17].
 
 There are three types of methodologies taken here, each stored in a different folder, named Methodology 1, 2 and 3.
 The first one is the “Base Methodology”, or the creation of the relevant datasets. Here we use the methods of Scaling and PCA to create the different Datasets.
