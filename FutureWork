@@ -1,0 +1,10 @@
+Machine Learning Methodology::
+- Usage of AutoML (Google) when released.
+https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html
+- Usage of Deep Learning (multi hidden layer NN)
+
+Datasets to work on::
+- Mutual Information Feature Selection method
+- Linear Discriminant Analysis Feature Selection method
+- Generalized Discriminant Analysis Feature Selection method
+- Backward Feature Selection method
