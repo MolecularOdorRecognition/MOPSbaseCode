@@ -4,7 +4,7 @@ This code runs the NN alongwith creates the Necessary Visualizations for the
  created Model as well as logs the pertinent data to the epochs for Training and
  Validation, as well as the Testing Loss and Metrics.
 
-BUG's:
+BUGs:(Possible bugs here)
     1. increased RAM usage in iPython console due to the scrolling of results. 
         On the other hand if the graphs are not displayed they simply overlay on
         top of each other  and become useless visualizations.
