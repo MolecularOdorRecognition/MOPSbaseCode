@@ -1,6 +1,8 @@
 """
 To create the dataset preprocessed by the PCA method.
 """
+# perform PCA and save the data, could be dierctly called too
+
 import pandas
 from sklearn.decomposition import PCA
 
