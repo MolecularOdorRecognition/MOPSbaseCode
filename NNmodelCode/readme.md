@@ -4,8 +4,7 @@ This folder contains 4 files:
 - runStep3.py
 - runVaryDrop.py
 
-The first three may be explained in detail via the Project Report generated for the BTech Training of Arpit Mathur (RSDC6991 GitHub handle)
-alongwith an explaination to the NN aproach itself.
+NN aproach.
 Link1: https://goo.gl/fy8xiJ
 Link2: https://goo.gl/EY6Vm8
 
